@@ -5,9 +5,9 @@ import Card from "./Card";
 
 const projects = [
   {
-    title: "React Space",
+    title: "To do app",
     description:
-      "Handy tool belt to create amazing AR components in a React app, with redux integration via middleware️",
+      "A simple and intuitive task management app built with React, allowing users to add, complete, and remove tasks using a clean and responsive interface.",
     getImageSrc: () => require("../images/photo1.jpg"),
   },
   {

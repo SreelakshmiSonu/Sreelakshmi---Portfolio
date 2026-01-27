@@ -20,7 +20,7 @@ const Card = ({ title, description, imageSrc }) => {
         <Heading size="md">{title}</Heading>
         <Text color="gray.600">{description}</Text>
         <HStack>
-          <Text fontWeight="bold">See more</Text>
+          <a fontWeight="bold" href="https://github.com/SreelakshmiSonu?tab=repositories">See more</a>
           <FontAwesomeIcon icon={faArrowRight} size="1x" />
         </HStack>
       </VStack>
