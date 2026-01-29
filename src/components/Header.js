@@ -22,14 +22,14 @@ const socials = [
     icon: faLinkedin,
     url: "https://www.linkedin.com/in/sreelakshmi-m-s-6561b2179",
   },
-  {
-    icon: faMedium,
-    url: "https://medium.com",
-  },
-  {
-    icon: faStackOverflow,
-    url: "https://stackoverflow.com",
-  },
+  // {
+  //   icon: faMedium,
+  //   url: "https://medium.com",
+  // },
+  // {
+  //   icon: faStackOverflow,
+  //   url: "https://stackoverflow.com",
+  // },
 ];
 
 const Header = () => {
