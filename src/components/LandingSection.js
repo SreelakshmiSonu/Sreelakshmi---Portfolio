@@ -4,7 +4,7 @@ import FullScreenSection from "./FullScreenSection";
 
 const greeting = "Hello, I am Sree!";
 const bio1 = "A frontend developer";
-const bio2 = "specialised in React";
+const bio2 = "specialised in React, Angular and Vue";
 
 const LandingSection = () => (
   <FullScreenSection
